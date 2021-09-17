@@ -10,10 +10,8 @@ Additionally, you can hash-enrypt any strong password and store it anywhere and 
 See documentation on how to use it.  
 https://github.com/ydsumith/Hector/wiki
 
-A research article is under progress and it will explain the internal details of this tool.
+A research article is under progress and it will explain the internal details of this tool.  
 
-For any questions contact me:
-
-engineer@sumith.info  (or)
-
+For any questions contact me:  
+engineer@sumith.info  (or)  
 sumith.yesudasan@shsu.edu
