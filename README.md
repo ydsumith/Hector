@@ -1,7 +1,7 @@
 # Hector
 Password generation-encryption-decryption tool
 
-*Description*
+***Description***
 
 This software can be used to generate complex password by memorizing hotel name, floor, room number etc.  
 You can also generate a super-strong random passord for your personal use.  
