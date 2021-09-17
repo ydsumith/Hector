@@ -15,6 +15,7 @@ To dowload the tool see the Hector.zip file from this page.
 
 - Windows 10 Operating System 64 bit  
 - dot NET 5.0 desktop runtime (.NET Desktop Runtime 5.0.4)  
+
 Don't get confused with 1) SDK, 2) ASP.NET Core Runtime and 3) .NET Runtime.  
 What you need is ".NET Desktop Runtime 5.0.4"
 
